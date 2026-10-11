@@ -1,0 +1,4 @@
+interface:
+  display_name: "技术笔记整理"
+  short_description: "将技术讨论持续整理到同一份 Markdown 笔记，记录代码、原理和验证依据"
+  default_prompt: "使用 $technical-notes 将刚才讨论的技术点补充到当前工程的技术笔记.md，更新已有节点并保留其他内容。"
